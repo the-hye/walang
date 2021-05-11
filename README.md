@@ -1,2 +1,2 @@
-# walang
-prototype of walang
+# Walang
+prototype of Walang
