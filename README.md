@@ -1,0 +1,2 @@
+# walang
+prototype of walang
